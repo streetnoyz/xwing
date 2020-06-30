@@ -1,0 +1,96 @@
+
+@font-face {
+
+    font-family: "xwin";
+    src: url("StarEagleLaserItalic-qRVd.ttf");
+   
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#myVideo {
+    
+    
+    
+    
+    margin: 150px 0 0 50px;
+    padding-left: 4%;
+    width: 40%;
+  height: auto;
+
+    
+    
+}
+html {
+    background-color: #e9e8e9
+
+
+}
+
+
+
+#star {
+
+  margin: 150px 4px  200px 140px;
+
+    width:40%;
+    
+
+    
+
+    
+}
+
+
+ul {
+    list-style-type: none;
+    margin: -10px;
+    padding: 28px 0 28px 150px ;
+    overflow: hidden;
+    background-color: #333;
+    
+    
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(233, 233, 233);
+    text-align: left;
+    padding: 0 25px 0 25px; 
+    text-decoration: none;
+    font-size: 25px;
+    font-family:"xwin"
+    
+  }
+  
+  li a:hover {
+    background-color: rgb(53, 53, 53);
+    text-shadow: 2px 2px 5px rgb(173, 173, 173);
+    
+
+  }
